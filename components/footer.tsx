@@ -68,9 +68,9 @@ export default function Footer() {
             >
               <Link href="/">
                 <div className="flex items-center">
-                  <span className="text-blue-400 font-bold text-2xl">WE</span>
-                  <span className="text-white font-bold text-2xl">elevate</span>
-                  <span className="text-blue-400 font-bold text-2xl">.ai</span>
+                  <span className="text-blue-400 font-bold text-2xl">S</span>
+                  <span className="text-white font-bold text-2xl">olle</span>
+                  <span className="text-blue-400 font-bold text-2xl">AI</span>
                 </div>
               </Link>
               <p className="text-gray-400 mt-4 max-w-md">
@@ -127,7 +127,7 @@ export default function Footer() {
           transition={{ duration: 0.5, delay: 0.3 }}
         >
           <div className="text-gray-400 text-sm mb-4 md:mb-0">
-            © {currentYear} WEelevate.ai. All rights reserved.
+            © {currentYear} SolleAI. All rights reserved.
           </div>
 
           <div className="flex space-x-4">
